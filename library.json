@@ -15,4 +15,19 @@
     "read_status":true,
     "added_data":"2025-04-05 05:05"
   },
+  { "title":"The Lord of the Rings",
+    "author":"J.R.R. Tolkien",
+    "publication_year":1954,
+    "genre":"Fantasy / Adventure",
+    "read_status":false,
+    "added_data":"2025-11-05 02:35"
+},
+  {
+    "title":"The Hobbit",
+    "author":"J.R.R. Tolkien",
+    "publication_year":1937,
+    "genre":"Fantasy / Adventure",
+    "read_status":false,
+    "added_data":"2025-11-05 02:37"
+  }
 ]
