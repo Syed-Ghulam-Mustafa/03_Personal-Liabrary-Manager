@@ -64,5 +64,31 @@ st.markdown("""
         transform: translateY(-5px);
         box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
         }
-        
-        """)
+
+    .read-badge {
+        background-color: #10B981;
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 1rem;
+        font-size: 0.875rem;
+        font-weight: 600;
+    }
+    
+    .unread-badge {
+        background-color: #F87171;
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 1rem;
+        font-size: 0.875rem;
+        font-weight: 600;
+    }
+    
+    .action-button {
+        margin-right: 0.5rem;
+    }
+    
+    .stButton>button {
+        border-radius: 0.375rem;
+    }
+</style>
+""", unsafe_allow_html=True)
